@@ -1,0 +1,126 @@
+body{
+  background-color: #8D96A5;
+  margin:0;
+  padding: 0 0 33.3% 0;
+}
+p,li{
+  font-family: Arial;
+  font-size: 5;
+  font-style: normal;
+  color: black;
+  text-decoration: initial;
+  margin-left: 2.5em;
+}
+p{
+  text-indent: 20px;
+}
+a{
+  font-family: Comic Sans MS;
+  font-size: 5;
+  font-style: normal;
+  color: teal;
+  text-decoration: initial;
+}
+tab{
+  margin-left: 2.5em;
+}
+h1 {
+  color: #60594d;
+  font-family: Arial;
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  color: #DEF902;
+  font-family: Arial;
+  font-size: 23px;
+  margin-left: 1.8em;
+}
+h3 {
+  color: #7c308f;
+  font-family: Arial;
+  font-size: 16px;
+  margin-left: 2.4em;
+}
+links{
+  color: #C84419;
+  font-size: 40px;
+  font-family: cursive;
+  margin-left: 5%;
+}
+
+
+thead th {
+  background: #88CCF1;
+  color: #FFF;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+}
+th{
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  width: 14.2857142857%;
+  font-weight: bold;
+  padding: 20px;
+  text-align: left;
+}
+td{
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 380;
+  padding: 20px;
+  text-align: left; 
+}
+tr {
+  background: #f4f7f8;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+.search {
+  background-color: #FFF;
+  border: 1px solid #DDD;
+  border-radius: 3px;
+  color: #AAA;
+  padding: 20px;
+  margin: 50px auto 0px auto;
+  width: 77%;
+  text-align: center;
+}
+.navigation {
+  margin: 0;
+  background-color: #717C8E;
+  padding: 18px 50px;
+}
+.active {
+  color: #C5D2CA;
+}
+actions ul {
+  padding: 0;
+  margin: 0;
+}
+actions li {
+  color: #FFF;
+  display: inline-block;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
+  padding: 20px 18px 10px 18px;
+  text-transform: uppercase;
+}
+.media{
+  margin-left: 30px;
+}
